@@ -9,9 +9,12 @@
         "Ingame Resolutions": [
             "640x480",
             "800x600",
+            "856x480",
+            "1024x768",
+            "1068x600",
             "1280x768"
         ],
-        "Ingame Resolution Mode": 2,
+        "Ingame Resolution Mode": 0,
         "Main Menu Resolution": "800x600",
         "Custom MPQ File": "SGD2FreeRes.mpq",
         "Enable Screen Border Frame?": true,
