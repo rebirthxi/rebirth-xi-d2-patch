@@ -1,0 +1,1 @@
+Hello!!! Welcome to RebirthXI's D2 Server Patch
