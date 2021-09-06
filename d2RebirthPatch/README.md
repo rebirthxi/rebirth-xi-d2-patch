@@ -36,6 +36,7 @@ but new builds and challenging areas that are added in addition to the classics!
 11. Difficulty Scaling is INSANE in Nightmare and Hell (those areas are not really complete yet)
 12. Normal scaled to allow for leveling to lv99 in Normal Difficulty
 13. Improved Gambling rates
+14. TalonRage and select D2 Apocalypse uniques
 
 ## Things to come...
 1. TalonRage / D2 Apoc Sets
