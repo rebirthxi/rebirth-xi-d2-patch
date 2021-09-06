@@ -37,17 +37,20 @@ but new builds and challenging areas that are added in addition to the classics!
 12. Normal scaled to allow for leveling to lv99 in Normal Difficulty
 13. Improved Gambling rates
 14. TalonRage and select D2 Apocalypse uniques
+15. TalonRage Runewords
+16. TalonRage and D2 Apoc Sets
+17. Removed Stamina drain (it's 2021...)
+18. Improved HP/MP per level and per stat slightly
+19. Characters gain 7 stat points per level
 
 ## Things to come...
-1. TalonRage / D2 Apoc Sets
-2. TalonRage / D2 Apoc Uniques
-3. TalonRage / D2 Apoc Runewords
-4. Improved Crafting and Recipe system
-5. D2 Hell Rips
-6. Red Portal "endgame" zones
-   1. new levels in general...
-7. Updated shrines
-8. Removed Stamina requirements...
+1. D2 Apoc Runewords
+2. Improved Crafting and Recipe system
+3. D2 Hell Rips
+4. Red Portal "endgame" zones
+   5. new levels in general...
+6. Updated shrines
+7. Removed Stamina requirements...
 
 ## ACKNOWLEDGEMENTS / CREDITS AND THANK YOUS!
 
