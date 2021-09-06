@@ -11,6 +11,3 @@ Welcome! D2 Rebirth is a 1.13c D2 Mod that takes the classic D2 gameplay and exp
 4. Finally, drag and drop all the files in "patch_files" into the your D2 folder.
    1. Typically found in C:\Program Files (x86)\Diablo II
 5. Run the game and enjoy! Connect to our server just like any ole bnet realm.
-
-## Mod Features
-1. 
